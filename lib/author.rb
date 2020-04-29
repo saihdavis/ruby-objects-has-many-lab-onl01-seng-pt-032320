@@ -21,3 +21,4 @@ end
     song.artist = self 
     #@@post_count += 1
 end
+end
