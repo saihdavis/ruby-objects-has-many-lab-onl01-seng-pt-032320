@@ -14,11 +14,7 @@ end
   end
   
   def artist_name
-    if self.artist.name
-      @name
-    else
-      return nil
-    
-  end 
+  
+
 end
 end
