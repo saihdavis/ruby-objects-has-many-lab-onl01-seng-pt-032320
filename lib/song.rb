@@ -14,7 +14,10 @@ end
   end
   
   def artist_name
-    if self.artist.name 
+    if Song = artist.name
+      self.artist.name
+    else
+      nil
 
 end
 end
