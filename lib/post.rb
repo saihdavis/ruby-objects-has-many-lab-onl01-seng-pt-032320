@@ -14,5 +14,4 @@ class Post
   end
   
   end
-end
-end 
+
